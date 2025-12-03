@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Science Mega Quiz",
+    "genreId": 1,
+    "questions": [
+      {
+        "text": "What planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "correctAnswer": "Mars"
+      },
+      {
+        "text": "What gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+        "correctAnswer": "Carbon Dioxide"
+      },
+      {
+        "text": "What is the chemical symbol for water?",
+        "options": ["O2", "H2O", "CO2", "HO2"],
+        "correctAnswer": "H2O"
+      },
+      {
+        "text": "What part of the cell contains DNA?",
+        "options": ["Ribosome", "Nucleus", "Cytoplasm", "Cell Wall"],
+        "correctAnswer": "Nucleus"
+      },
+      {
+        "text": "What force keeps us on the ground?",
+        "options": ["Friction", "Magnetism", "Gravity", "Tension"],
+        "correctAnswer": "Gravity"
+      },
+      {
+        "text": "What is the speed of light?",
+        "options": ["300,000 km/s", "150,000 km/s", "100,000 km/s", "500,000 km/s"],
+        "correctAnswer": "300,000 km/s"
+      },
+      {
+        "text": "What organ pumps blood in the human body?",
+        "options": ["Lungs", "Heart", "Brain", "Kidneys"],
+        "correctAnswer": "Heart"
+      },
+      {
+        "text": "Which vitamin is produced by sunlight?",
+        "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+        "correctAnswer": "Vitamin D"
+      },
+      {
+        "text": "What do bees collect from flowers?",
+        "options": ["Water", "Nectar", "Leaves", "Dust"],
+        "correctAnswer": "Nectar"
+      },
+      {
+        "text": "Which metal is liquid at room temperature?",
+        "options": ["Gold", "Mercury", "Iron", "Silver"],
+        "correctAnswer": "Mercury"
+      }
+    ]
+  },
+
+  {
+    "title": "World History Challenge",
+    "genreId": 2,
+    "questions": [
+      {
+        "text": "Who was the first President of the United States?",
+        "options": ["Abraham Lincoln", "George Washington", "John Adams", "Thomas Jefferson"],
+        "correctAnswer": "George Washington"
+      },
+      {
+        "text": "In which year did World War II end?",
+        "options": ["1940", "1942", "1945", "1950"],
+        "correctAnswer": "1945"
+      },
+      {
+        "text": "Which civilization built the pyramids?",
+        "options": ["Romans", "Egyptians", "Greeks", "Mayans"],
+        "correctAnswer": "Egyptians"
+      },
+      {
+        "text": "Who discovered America?",
+        "options": ["Marco Polo", "Christopher Columbus", "Vasco da Gama", "Magellan"],
+        "correctAnswer": "Christopher Columbus"
+      },
+      {
+        "text": "Which empire was ruled by Genghis Khan?",
+        "options": ["Roman Empire", "Mongol Empire", "Ottoman Empire", "British Empire"],
+        "correctAnswer": "Mongol Empire"
+      },
+      {
+        "text": "Which war is also known as The Great War?",
+        "options": ["WWII", "WWI", "Cold War", "Vietnam War"],
+        "correctAnswer": "WWI"
+      },
+      {
+        "text": "Where was the ancient city of Sparta located?",
+        "options": ["Egypt", "Greece", "Rome", "Persia"],
+        "correctAnswer": "Greece"
+      },
+      {
+        "text": "Who was the famous Egyptian queen?",
+        "options": ["Cleopatra", "Nefertiti", "Hatshepsut", "Isis"],
+        "correctAnswer": "Cleopatra"
+      },
+      {
+        "text": "Which wall divided Berlin until 1989?",
+        "options": ["Great Wall", "Berlin Wall", "Iron Wall", "Stone Wall"],
+        "correctAnswer": "Berlin Wall"
+      },
+      {
+        "text": "Which civilization invented the Olympic Games?",
+        "options": ["Persians", "Egyptians", "Greeks", "Romans"],
+        "correctAnswer": "Greeks"
+      }
+    ]
+  },
+
+  {
+    "title": "Ultimate Geography Quiz",
+    "genreId": 3,
+    "questions": [
+      {
+        "text": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+        "correctAnswer": "Pacific Ocean"
+      },
+      {
+        "text": "What is the capital of France?",
+        "options": ["Paris", "Lyon", "Marseille", "Nice"],
+        "correctAnswer": "Paris"
+      },
+      {
+        "text": "Which is the largest continent?",
+        "options": ["Africa", "Asia", "Europe", "Australia"],
+        "correctAnswer": "Asia"
+      },
+      {
+        "text": "Mount Everest lies in which mountain range?",
+        "options": ["Andes", "Alps", "Himalayas", "Rockies"],
+        "correctAnswer": "Himalayas"
+      },
+      {
+        "text": "Which river is the longest in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "correctAnswer": "Nile"
+      },
+      {
+        "text": "Which country has the most population?",
+        "options": ["India", "China", "USA", "Russia"],
+        "correctAnswer": "China"
+      },
+      {
+        "text": "Which desert is the largest?",
+        "options": ["Gobi", "Sahara", "Arabian", "Kalahari"],
+        "correctAnswer": "Sahara"
+      },
+      {
+        "text": "What is the smallest country in the world?",
+        "options": ["Monaco", "Malta", "Vatican City", "San Marino"],
+        "correctAnswer": "Vatican City"
+      },
+      {
+        "text": "Which country has the Eiffel Tower?",
+        "options": ["Germany", "France", "Italy", "Spain"],
+        "correctAnswer": "France"
+      },
+      {
+        "text": "Which continent is also a country?",
+        "options": ["Asia", "Europe", "Australia", "South America"],
+        "correctAnswer": "Australia"
+      }
+    ]
+  }
+]
